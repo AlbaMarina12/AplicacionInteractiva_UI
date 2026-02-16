@@ -48,6 +48,8 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\6000.3.5f2\Editor\Data\Tools\BuildPipeline\Unity.SourceGenerators\Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\FontControllerTMP.cs" />
+    <Compile Include="Assets\Scripts\DragSprite2D.cs" />
     <Compile Include="Assets\Scripts\SceneNavigation.cs" />
     <Compile Include="Assets\OpenLink.cs" />
     <Compile Include="Assets\Scripts\ToggleMenu.cs" />
